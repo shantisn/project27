@@ -1,0 +1,63 @@
+.container{
+    margin: 0px 300px;
+}
+.pin{
+    background: pink;
+    margin-right: 20px;
+   font-size: 20px;
+
+}
+.yell{
+    background: yellow;
+    margin-right: 20px;
+   font-size: 20px;
+}
+.gree{
+    background: green;
+    margin-right: 20px;
+   font-size: 20px;
+}
+.pur{
+    background: purple;
+    margin-right: 20px;
+   font-size: 20px;
+}
+.blac{
+    background: black;
+    margin-right: 20px;
+   font-size: 20px;
+   color: white;
+}
+.blu{
+    background: blue;
+    margin-right: 20px;
+   font-size: 20px;
+   color: orange
+}
+.re{
+    background: red;
+   margin-right: 20px;
+   font-size: 20px;
+   color: aqua;
+}
+.one{
+    background: tomato;
+    width: 400px;
+    height: 200px;
+    margin: 100px;
+    
+}
+ .one h1{
+padding: 80px  90px;
+color: rgb(30, 12, 187);
+font-size:30PX ;
+}
+.res{
+    background: turquoise;
+    font-size: 30px;
+    padding: 10px 30px;
+    border-radius: 48%;
+    font-weight: 400;
+    margin:  0px 200px;
+    margin-top: 50px;
+}
